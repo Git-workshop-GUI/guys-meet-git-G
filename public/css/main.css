@@ -10,3 +10,6 @@ li {
 	list-style: none;
     font-size: 20px;
 }
+ a span:hover{
+	font-weight: bold;
+}
