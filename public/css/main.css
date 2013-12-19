@@ -11,6 +11,7 @@ li {
 a {
 	color: #000000;
 	text-decoration: none;
+	font-size: 25px;
 }
  a span:hover{
 	font-weight: bold;
